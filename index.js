@@ -5,6 +5,6 @@ document.getElementById("a1").innerHTML = "HTML veb-sahifalar uchun standart bel
 document.getElementById("a2").innerHTML = "Ushbu qo‘llanmada HTML belgilash tili haqida ko‘plab tushunchalar va misollar berib o‘tilgan.";
 document.getElementById("a3").innerHTML = "HTMLni o‘rganish qulay bo‘lishi uchun mavzularni ketma-ketlikda joylashtirib chiqdim.";
 document.getElementById("a4").innerHTML = "Har bir sahifada <b>&lsaquo; Oldingi</b> va <b>Keyingi &rsaquo;</b> tugmalar mavjud bo‘lib, ulardan foydalangan holda sahifalararo yoki butun sayt bo‘ylab harakatlanishingiz mumkin.";
-document.getElementById("").innerHTML = "";
+document.getElementById("a5").innerHTML = "Barchaga maroqli sayohat tilagan holda, darslikni ko‘rib chiqishni boshlaymiz!";
 document.getElementById("").innerHTML = "";
 document.getElementById("").innerHTML = "";
