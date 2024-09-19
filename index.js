@@ -1,4 +1,4 @@
-document.getElementById("").innerHTML = "";
+document.getElementById("logotip").innerHTML = "Uralbek UZ";
 document.getElementById("").innerHTML = "";
 document.getElementById("").innerHTML = "";
 document.getElementById("").innerHTML = "";
