@@ -1,7 +1,7 @@
 document.getElementById("logotip").innerHTML = "Uralbek UZ";
 document.getElementById("data").innerHTML = "04.02.2019";
 document.getElementById("mavzu").innerHTML = "HTML";
-document.getElementById("").innerHTML = "";
+document.getElementById("a1").innerHTML = "HTML veb-sahifalar uchun standart belgilash tili bo‘lib, har kim HTML yordamida o‘z veb-sahifasini yaratishi va ko‘p sahifali saytlarni ishlab chiqishi mumkin.";
 document.getElementById("").innerHTML = "";
 document.getElementById("").innerHTML = "";
 document.getElementById("").innerHTML = "";
